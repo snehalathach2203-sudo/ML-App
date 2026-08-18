@@ -6,6 +6,9 @@
 
 An AI-driven Streamlit application that predicts student academic performance and recommends suitable career paths based on academic profile, skills, certifications, and career interests.
 
+## 🚀 Live Demo
+👉 **[Open Application on Streamlit Cloud](https://ml-app-sch.streamlit.app)**
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge\&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458?style=for-the-badge\&logo=pandas)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--learn-ML-F7931E?style=for-the-badge\&logo=scikit-learn)
@@ -147,9 +150,8 @@ assets/
 └── skill-gap.png
 ```
 
-Example:
+<img width="1354" height="690" alt="image" src="https://github.com/user-attachments/assets/6820b64d-e5fd-4f2d-941e-017799cb236b" />
 
-![Application Preview](assets/prediction.png)
 
 ---
 
@@ -160,6 +162,13 @@ Example:
 * Implemented interactive career exploration using **Streamlit session state**.
 * Added **timestamped prediction history** for future analysis.
 
+---
+## 🔮 Future Scope
+
+- 🚀 **FastAPI Integration** — Serve the trained ML model through REST APIs for scalable and production-ready model inference.
+- 🗄️ **Database Integration** — Replace CSV-based prediction history with a database such as PostgreSQL, Supabase, or Firebase for persistent and scalable data storage.
+- 📊 **Analytics Dashboard** — Add visual analytics for prediction history, career trends, and skill gaps.
+- 🔐 **User Authentication** — Add secure student and administrator accounts.
 ---
 
 ## ⚠️ Disclaimer
