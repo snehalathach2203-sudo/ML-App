@@ -1,0 +1,4 @@
+Timestamp,Education,Branch,Attendance%,StudyHours,AssignmentScore,InternalTestScore,Skills,Certifications,Interests,PredictedFinalMarks,GradePoint,Career1,Career2,Career3,Career4,Career5
+2026-08-18 16:15:14,B.Tech,Computer Science,80.0,4.0,6.0,30.0,"SQL, Excel, MS Office",SQL,"Analytics, ML",60.1,7,Business Analyst,Product Analyst,Business Intelligence Analyst,Data Analyst,QA / Automation Engineer
+2026-08-18 16:22:54,B.Tech,,75.0,2.0,5.0,20.0,,,,33.4,0,,,,,
+2026-08-18 16:27:24,B.Sc,Computers,85.0,4.0,7.0,30.0,"Python, SQL, C, C++, Java","Python, Java",Developer,63.47,7,Python Developer,QA / Automation Engineer,Full Stack Developer,Software Developer,Data Analyst
