@@ -1,0 +1,167 @@
+career_path,skill,skill_type
+Data Analyst,Python,Core
+Data Analyst,SQL,Core
+Data Analyst,Excel,Core
+Data Analyst,Statistics,Core
+Data Analyst,Data Visualization,Core
+Data Analyst,Power BI,Advanced
+Data Analyst,Tableau,Advanced
+Data Analyst,Pandas,Advanced
+Data Analyst,NumPy,Advanced
+Data Scientist,Python,Core
+Data Scientist,SQL,Core
+Data Scientist,Statistics,Core
+Data Scientist,Machine Learning,Core
+Data Scientist,Pandas,Core
+Data Scientist,NumPy,Core
+Data Scientist,Data Visualization,Advanced
+Data Scientist,Scikit-learn,Advanced
+Data Scientist,Deep Learning,Advanced
+Machine Learning Engineer,Python,Core
+Machine Learning Engineer,Machine Learning,Core
+Machine Learning Engineer,SQL,Core
+Machine Learning Engineer,Git,Core
+Machine Learning Engineer,APIs,Core
+Machine Learning Engineer,Scikit-learn,Advanced
+Machine Learning Engineer,Docker,Advanced
+Machine Learning Engineer,MLflow,Advanced
+Machine Learning Engineer,Cloud,Advanced
+AI Engineer,Python,Core
+AI Engineer,Machine Learning,Core
+AI Engineer,Deep Learning,Core
+AI Engineer,Git,Core
+AI Engineer,APIs,Core
+AI Engineer,PyTorch,Advanced
+AI Engineer,TensorFlow,Advanced
+AI Engineer,LLM/GenAI,Advanced
+AI Engineer,Cloud,Advanced
+Data Engineer,Python,Core
+Data Engineer,SQL,Core
+Data Engineer,ETL,Core
+Data Engineer,Databases,Core
+Data Engineer,Git,Core
+Data Engineer,Apache Spark,Advanced
+Data Engineer,Airflow,Advanced
+Data Engineer,Data Warehousing,Advanced
+Data Engineer,Cloud,Advanced
+Business Intelligence Analyst,SQL,Core
+Business Intelligence Analyst,Excel,Core
+Business Intelligence Analyst,Data Visualization,Core
+Business Intelligence Analyst,Business Analysis,Core
+Business Intelligence Analyst,Power BI,Advanced
+Business Intelligence Analyst,Tableau,Advanced
+Business Intelligence Analyst,DAX,Advanced
+Business Intelligence Analyst,Data Modeling,Advanced
+Business Analyst,Excel,Core
+Business Analyst,SQL,Core
+Business Analyst,Business Analysis,Core
+Business Analyst,Communication,Core
+Business Analyst,Requirements Gathering,Advanced
+Business Analyst,Process Modeling,Advanced
+Business Analyst,Power BI,Advanced
+Business Analyst,Jira,Advanced
+Python Developer,Python,Core
+Python Developer,Git,Core
+Python Developer,SQL,Core
+Python Developer,APIs,Core
+Python Developer,Django,Advanced
+Python Developer,Flask,Advanced
+Python Developer,FastAPI,Advanced
+Python Developer,Testing,Advanced
+Full Stack Developer,HTML,Core
+Full Stack Developer,CSS,Core
+Full Stack Developer,JavaScript,Core
+Full Stack Developer,Git,Core
+Full Stack Developer,SQL,Core
+Full Stack Developer,React,Advanced
+Full Stack Developer,Node.js,Advanced
+Full Stack Developer,REST APIs,Advanced
+Full Stack Developer,Docker,Advanced
+Software Developer,Programming,Core
+Software Developer,Data Structures,Core
+Software Developer,Algorithms,Core
+Software Developer,Git,Core
+Software Developer,OOP,Core
+Software Developer,SQL,Advanced
+Software Developer,Testing,Advanced
+Software Developer,APIs,Advanced
+Cloud Engineer,Linux,Core
+Cloud Engineer,Networking,Core
+Cloud Engineer,Cloud,Core
+Cloud Engineer,Git,Core
+Cloud Engineer,AWS,Advanced
+Cloud Engineer,Azure,Advanced
+Cloud Engineer,Terraform,Advanced
+Cloud Engineer,Docker,Advanced
+DevOps Engineer,Linux,Core
+DevOps Engineer,Git,Core
+DevOps Engineer,CI/CD,Core
+DevOps Engineer,Docker,Core
+DevOps Engineer,Kubernetes,Advanced
+DevOps Engineer,Jenkins,Advanced
+DevOps Engineer,Terraform,Advanced
+DevOps Engineer,Cloud,Advanced
+Cybersecurity Analyst,Networking,Core
+Cybersecurity Analyst,Linux,Core
+Cybersecurity Analyst,Cybersecurity,Core
+Cybersecurity Analyst,Python,Core
+Cybersecurity Analyst,SIEM,Advanced
+Cybersecurity Analyst,Threat Detection,Advanced
+Cybersecurity Analyst,Incident Response,Advanced
+Cybersecurity Analyst,Ethical Hacking,Advanced
+Database Administrator,SQL,Core
+Database Administrator,Databases,Core
+Database Administrator,Linux,Core
+Database Administrator,Backup & Recovery,Core
+Database Administrator,PostgreSQL,Advanced
+Database Administrator,MySQL,Advanced
+Database Administrator,Database Security,Advanced
+Database Administrator,Performance Tuning,Advanced
+Computer Vision Engineer,Python,Core
+Computer Vision Engineer,OpenCV,Core
+Computer Vision Engineer,Deep Learning,Core
+Computer Vision Engineer,Computer Vision,Core
+Computer Vision Engineer,PyTorch,Advanced
+Computer Vision Engineer,TensorFlow,Advanced
+Computer Vision Engineer,YOLO,Advanced
+Computer Vision Engineer,Image Processing,Advanced
+NLP Engineer,Python,Core
+NLP Engineer,NLP,Core
+NLP Engineer,Machine Learning,Core
+NLP Engineer,Deep Learning,Core
+NLP Engineer,PyTorch,Advanced
+NLP Engineer,Transformers,Advanced
+NLP Engineer,LLM/GenAI,Advanced
+NLP Engineer,Hugging Face,Advanced
+MLOps Engineer,Python,Core
+MLOps Engineer,Machine Learning,Core
+MLOps Engineer,Git,Core
+MLOps Engineer,Docker,Core
+MLOps Engineer,MLflow,Advanced
+MLOps Engineer,Kubernetes,Advanced
+MLOps Engineer,CI/CD,Advanced
+MLOps Engineer,Cloud,Advanced
+QA / Automation Engineer,Testing,Core
+QA / Automation Engineer,Python,Core
+QA / Automation Engineer,SQL,Core
+QA / Automation Engineer,Git,Core
+QA / Automation Engineer,Selenium,Advanced
+QA / Automation Engineer,API Testing,Advanced
+QA / Automation Engineer,PyTest,Advanced
+QA / Automation Engineer,CI/CD,Advanced
+UI/UX Designer,UI Design,Core
+UI/UX Designer,UX Design,Core
+UI/UX Designer,Wireframing,Core
+UI/UX Designer,Prototyping,Core
+UI/UX Designer,Figma,Advanced
+UI/UX Designer,User Research,Advanced
+UI/UX Designer,Design Systems,Advanced
+UI/UX Designer,Usability Testing,Advanced
+Product Analyst,SQL,Core
+Product Analyst,Excel,Core
+Product Analyst,Statistics,Core
+Product Analyst,Data Visualization,Core
+Product Analyst,Product Analytics,Advanced
+Product Analyst,A/B Testing,Advanced
+Product Analyst,Power BI,Advanced
+Product Analyst,Python,Advanced
