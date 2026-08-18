@@ -140,18 +140,7 @@ streamlit run app.py
 
 ## 📊 Application Preview
 
-> Add your screenshots here after uploading them to the repository.
-
-```text
-assets/
-├── home.png
-├── prediction.png
-├── recommendations.png
-└── skill-gap.png
-```
-
 <img width="1354" height="690" alt="image" src="https://github.com/user-attachments/assets/6820b64d-e5fd-4f2d-941e-017799cb236b" />
-
 
 ---
 
