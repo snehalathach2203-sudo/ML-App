@@ -313,9 +313,4 @@ elif selected == 'AI':
                     else:
                         st.success("You already have the all required skills!")
 
-else:
-    try:
-        st.dataframe(pd.read_csv(PREDICTION_CSV))
-    except:
-        pass
-    
+else: st.dataframe(pd.read_csv(PREDICTION_CSV))
