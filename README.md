@@ -1,2 +1,165 @@
-# ML-App
-An AI-driven Streamlit application that predicts students' final academic performance and recommends suitable career paths based on academic profile, skills, certifications, and career interests.
+# 🎓 AI-Based Student Performance & Career Recommendation System
+
+<p align="center">
+
+### 📊 Predict Performance • 🎯 Recommend Careers • 🧩 Identify Skill Gaps
+
+An AI-driven Streamlit application that predicts student academic performance and recommends suitable career paths based on academic profile, skills, certifications, and career interests.
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge\&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458?style=for-the-badge\&logo=pandas)
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-ML-F7931E?style=for-the-badge\&logo=scikit-learn)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge\&logo=streamlit)
+
+</p>
+
+---
+
+## ✨ Features
+
+### 📈 Student Performance Prediction
+
+Predicts final academic marks and grade point using:
+
+* Attendance
+* Study Hours
+* Assignment Score
+* Internal Test Score
+
+### 🎯 Career Recommendation
+
+Recommends the **Top 5 career paths** based on:
+
+* Education & Branch
+* Grade Point
+* Skills
+* Certifications
+* Career Interests
+
+### 🧩 Skill Gap Analysis
+
+For a selected career, identifies:
+
+* ✅ Matched Skills
+* 📚 Skills to Learn
+
+### 💾 Prediction History
+
+Every prediction is saved to a CSV file with:
+
+* Timestamp
+* Student details
+* Prediction results
+* Recommended careers
+
+---
+
+## 🔄 Workflow
+
+```text
+👨‍🎓 Student Profile
+        ↓
+📊 Performance Prediction
+        ↓
+⭐ Grade Point
+        ↓
+🎯 Top 5 Career Recommendations
+        ↓
+🧩 Select Career
+        ↓
+✅ Matched Skills + 📚 Missing Skills
+        ↓
+💾 Prediction History
+```
+
+---
+
+## 🛠️ Tech Stack
+
+| Category            | Technology   |
+| ------------------- | ------------ |
+| Programming         | Python       |
+| Data Processing     | Pandas       |
+| Machine Learning    | Scikit-learn |
+| Web Application     | Streamlit    |
+| Data Storage        | CSV          |
+| Data/Knowledge Base | Pickle       |
+
+---
+
+## 📁 App Structure
+
+```text
+App/
+│
+├── backend/
+│   ├── main.py
+│   ├── predict.py
+│   ├── requirements.txt
+│   └── recommendation.py
+|
+├── frontend/
+│   ├── app.py
+│   ├── requirements.txt
+|
+├── pickles/
+│   └── marksmodel.pkl
+│   └── career_recommendation.pkl
+│
+├── data/
+│   └── prediction_history.csv
+```
+
+---
+
+## 🚀 Run Locally
+
+```bash
+pip install -r requirements.txt (for backend and frontend separately)
+```
+
+```bash
+streamlit run app.py
+```
+
+---
+
+## 📊 Application Preview
+
+> Add your screenshots here after uploading them to the repository.
+
+```text
+assets/
+├── home.png
+├── prediction.png
+├── recommendations.png
+└── skill-gap.png
+```
+
+Example:
+
+![Application Preview](assets/prediction.png)
+
+---
+
+## 🎯 Project Highlights
+
+* Built an **end-to-end ML application** rather than only a standalone model.
+* Combined **prediction + recommendation + skill-gap analysis** in one application.
+* Implemented interactive career exploration using **Streamlit session state**.
+* Added **timestamped prediction history** for future analysis.
+
+---
+
+## ⚠️ Disclaimer
+
+This application provides AI/ML-based predictions and career recommendations for **educational exploration**. Results should not be considered guaranteed academic or career outcomes.
+
+---
+
+<p align="center">
+
+### ⭐ Built with Python, Machine Learning & Streamlit
+
+</p>
+
