@@ -86,6 +86,17 @@ Every prediction is saved to a CSV file with:
 | Data/Knowledge Base | Pickle       |
 
 ---
+## 📚 Data Sources
+
+| Dataset | Purpose |
+|---|---|
+| [Student Academic Performance Dataset](https://www.kaggle.com/datasets/sonalshinde123/student-academic-performance-dataset/data) | Student performance prediction |
+| [Job Skill Set Dataset](https://www.kaggle.com/datasets/batuhanmutlu/job-skill-set) | Career skill analysis |
+| Career Skills Knowledge Base | Career-wise skill mapping and recommendation |
+
+> Career knowledge and skill mappings were prepared and structured for the career recommendation module.
+
+---
 
 ## 📁 App Structure
 
