@@ -5,7 +5,6 @@
 # ---------------------------------------------------------
 import streamlit as st       
 from streamlit_option_menu import option_menu
-from streamlit_card import card
 import pickle
 import sys
 from pathlib import Path
